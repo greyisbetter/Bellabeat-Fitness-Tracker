@@ -39,12 +39,15 @@ Here is the [Documentation of cleaning or manipulation of data]().
 
 5. Proceed to the analyze step.
 
-## Analyze
+## Summary of analysis<div id="analyze"></div>
+Here is the [SQL Script]() that can help you do the following:
 1. Import your data.
 2. Explore your data, perhaps looking at the total number of rows, distinct values, maximum, minimum, or mean values.
 3. Where relevant, use JOIN statements to combine your relevant data into different tables based upon the needs of your analyses.
 4. Create summary statistics.
 5. Investigate interesting trends and save that information to a table.
 
-### Summary of analysis
-(./dashboard.png)
+![dashboard](./dashboard.png)
+
+## Supporting visualizations and key findings<div id="share"></div>
+The visualizations should clearly communicate your high-level insights and recommendations. [Link of the Visualization Presentation]()
